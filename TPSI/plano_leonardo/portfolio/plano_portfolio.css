@@ -1,0 +1,33 @@
+/* Impostazioni base */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    padding: 20px;
+    color: #333;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.sezione {
+    margin-bottom: 50px;
+}
+
+/* Colori delle materie */
+.titolo-materia {
+    font-weight: bold;
+    font-size: 1.2rem;
+    list-style: none; /* Toglie il pallino solo al titolo */
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
+
+.lista-info .titolo-materia { color: red; }
+.lista-math .titolo-materia { color: blue; }
+.lista-english .titolo-materia { color: green; }
+
+/* Spaziatura liste */
+ul {
+    margin-bottom: 20px;
+}
