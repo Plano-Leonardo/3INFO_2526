@@ -1,0 +1,22 @@
+.sfondo-viola {
+  background-color: #7b0099;
+  width: 600px;
+  height: 160px;
+  padding: 25px;
+  margin: 0 auto;
+}
+
+.box-chiaro {
+  float: right;
+  background-color: #c6f4de;
+  color: #7b0099;
+  width: 120px;
+  height: 120px;
+  padding: 15px;
+}
+
+.testo-sinistro {
+  color: white;
+  margin: 0;
+  padding-top: 20px;
+}

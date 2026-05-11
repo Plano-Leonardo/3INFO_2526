@@ -1,0 +1,33 @@
+.contenitore {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.box-sinistro {
+  float: left;
+  background-color: #800080;
+  color: white;
+  width: 150px;
+  height: 150px;
+  padding: 15px;
+  margin-right: 20px;
+  border-radius: 8px; 
+}
+
+.box-destro {
+  float: right;
+  background-color: #800080;
+  color: white;
+  width: 150px;
+  height: 150px;
+  padding: 15px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+
+/* Testo centrale */
+.testo-centrale {
+  margin: 0;
+  padding-top: 40px; 
+  text-align: left;
+}
